@@ -1,0 +1,9 @@
+{
+  "name": "laser-tag",
+  "version": "1.0.0",
+  "description": "2D online laser tag",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
